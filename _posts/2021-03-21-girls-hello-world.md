@@ -1,5 +1,6 @@
 ---
 layout: post
 title:  "「没必要为了证明男女平等，去做自己不擅长的事。」"
-image: assets/images/01.png
+image: assets/images/002.png
 ---
+#「男生跟女生就是不一样的，我觉得没必要为了证明平等，去逼迫女生做男生擅长的事，发挥自己的长处最重要。」
